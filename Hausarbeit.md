@@ -6,6 +6,8 @@
 
 ## Die Entwicklung der Röhren-Computer
 
+der eniac computer blablabla
+
 ## Die Entwicklung der Transistoren
 
 ## Die entwicklung der intergierten schaltkreisen
