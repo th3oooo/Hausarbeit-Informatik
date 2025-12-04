@@ -10,8 +10,6 @@
 
 ## Die entwicklung der intergierten schaltkreisen
 
-## die zeit der mobilen endgeräte
-
 ## Zusammenfassug
 
 ## Literatur
