@@ -8,6 +8,8 @@
 
 ## Die Entwicklung der Transistoren
 
+## Die entwicklung der intergierten schaltkreisen
+
 ## Zusammenfassug
 
 ## Literatur
